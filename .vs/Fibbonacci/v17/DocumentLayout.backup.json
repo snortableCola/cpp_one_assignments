@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legoc\\source\\repos\\Fibbonacci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|C:\\Users\\legoc\\source\\repos\\Fibbonacci\\Fibbonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|solutionrelative:Fibbonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|C:\\USERS\\LEGOC\\SOURCE\\REPOS\\FIBBONACCI\\ALGORITHMS\\INCLUDE\\ALGO.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|solutionrelative:ALGORITHMS\\INCLUDE\\ALGO.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "algo.hpp",
+              "DocumentMoniker": "C:\\Users\\legoc\\source\\repos\\Fibbonacci\\algorithms\\include\\algo.hpp",
+              "RelativeDocumentMoniker": "algorithms\\include\\algo.hpp",
+              "ToolTip": "C:\\Users\\legoc\\source\\repos\\Fibbonacci\\algorithms\\include\\algo.hpp",
+              "RelativeToolTip": "algorithms\\include\\algo.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-11T01:18:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fibbonacci.cpp",
+              "DocumentMoniker": "C:\\Users\\legoc\\source\\repos\\Fibbonacci\\Fibbonacci.cpp",
+              "RelativeDocumentMoniker": "Fibbonacci.cpp",
+              "ToolTip": "C:\\Users\\legoc\\source\\repos\\Fibbonacci\\Fibbonacci.cpp",
+              "RelativeToolTip": "Fibbonacci.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T01:11:09.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
