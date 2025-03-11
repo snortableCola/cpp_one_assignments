@@ -26,8 +26,12 @@ int linear_search(Array * a, const int target)
 }  
 
 long factorial(const int n)  
-{  
-   return n;  
+{
+    if (n == 0) {
+        return n;
+    }
+    return n * factorial(n - 1);
+    
 }  
 
 #endif // ALGO_H_
