@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\legoc\\source\\repos\\cpp_one_assignments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|C:\\Users\\legoc\\source\\repos\\cpp_one_assignments\\Fibbonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|solutionrelative:Fibbonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|C:\\USERS\\LEGOC\\SOURCE\\REPOS\\CPP_ONE_ASSIGNMENTS\\ALGORITHMS\\INCLUDE\\ALGO.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|solutionrelative:ALGORITHMS\\INCLUDE\\ALGO.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\legoc\\source\\repos\\cpp_one_assignments\\algorithms\\include\\algo.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:algorithms\\include\\algo.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|C:\\Users\\legoc\\source\\repos\\cpp_one_assignments\\Fibbonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E48DAE1B-2F01-429D-822D-37B1C150AE49}|Fibbonacci.vcxproj|solutionrelative:Fibbonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "algo.hpp",
               "DocumentMoniker": "C:\\Users\\legoc\\source\\repos\\cpp_one_assignments\\algorithms\\include\\algo.hpp",
               "RelativeDocumentMoniker": "algorithms\\include\\algo.hpp",
               "ToolTip": "C:\\Users\\legoc\\source\\repos\\cpp_one_assignments\\algorithms\\include\\algo.hpp",
               "RelativeToolTip": "algorithms\\include\\algo.hpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-11T01:18:22.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Fibbonacci.cpp",
               "DocumentMoniker": "C:\\Users\\legoc\\source\\repos\\cpp_one_assignments\\Fibbonacci.cpp",
               "RelativeDocumentMoniker": "Fibbonacci.cpp",
